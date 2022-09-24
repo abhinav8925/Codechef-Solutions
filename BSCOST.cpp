@@ -1,4 +1,4 @@
-// Date - 24th August 2022
+// Date - 24th September 2022
 // Code by - Abhinav Anand
 
 // Problem link -> https://www.codechef.com/problems/BSCOST
