@@ -1,4 +1,4 @@
-// Date - 12th January 2022
+// Date - 12th January 2023
 // Code by - Abhinav Anand
 
 // Problem link -> https://www.codechef.com/problems/WATSCORE
