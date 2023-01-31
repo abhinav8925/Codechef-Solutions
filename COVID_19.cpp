@@ -30,6 +30,7 @@ void solve()
     if(col%2==0)   col=col/2;
     else if(col%2!=0)   col=(col/2)+1;
 
+	
     cout << row*col << endl;
     
 }
