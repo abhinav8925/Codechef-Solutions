@@ -40,11 +40,20 @@ void solve()
         else
             o++;
     }
-    if(z>(n/2)+1 || o>(n/2)+1)
-        cout << "NO" << endl;
-    else
-        cout << "YES" << endl;
-    
+    if(n%2==0)
+    {
+        if(z%2==0 && o%2==0)
+            cout << "YES" << endl;
+        else
+            cout << "NO" << endl;
+    }
+    else if(n%2!=0)
+    {
+        if(o%2!=0 && z%2==0)
+            cout << "YES" << endl;
+        else
+            cout << "NO" << endl;
+    }
     
 }
 
